@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TownLibrarian", "TownLibrarian.csproj", "{A84E51D1-4907-49F7-864F-7F84ADF480FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84E51D1-4907-49F7-864F-7F84ADF480FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84E51D1-4907-49F7-864F-7F84ADF480FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84E51D1-4907-49F7-864F-7F84ADF480FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84E51D1-4907-49F7-864F-7F84ADF480FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B02D7D6-C656-417C-9091-FA79D2CF0475}
+	EndGlobalSection
+EndGlobal
